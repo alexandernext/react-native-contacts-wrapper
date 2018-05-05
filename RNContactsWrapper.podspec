@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.summary          = "Contacts plugin to wrap native contact pickers for iOS and Android."
   s.license          = package['license']
   s.homepage         = 'https://github.com/LynxITDigital/react-native-contacts-wrapper'
-  s.authors          = 'Horcrux Chen'
+  s.authors          = 'LynxIT Digital'
   s.source           = { :git => 'https://github.com/LynxITDigital/react-native-contacts-wrapper', :tag => "v#{s.version}" }
   s.source_files     = 'ios/**/*.{h,m}'
   s.requires_arc     = true
